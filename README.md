@@ -15,4 +15,10 @@ Below are the phrases currently recognized by the bot:
 `!guildbot + <literally anything that's not "wake up">` - Bot will "sleep" and no longer respond to commands above, except the "wake up" command
 
 ## Next Steps
+- Repair bot's sleep status; at the moment the bot likes to say that it's not responding if you mention it while it's sleeping...
+- Allow users to edit the list of custom phrases!
+- When the new game comes out, allow users to share Room ID and Password from game session(TBA)
 ## Credits
+Written by: ME(Kamali Means), with the help of [freeCodeCamp](https://www.freecodecamp.org/)
+
+API for bot's jokes: [icanhazdadjoke](https://icanhazdadjoke.com/api)

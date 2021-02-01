@@ -22,3 +22,5 @@ Below are the phrases currently recognized by the bot:
 Written by: ME(Kamali Means), with the help of [freeCodeCamp](https://www.freecodecamp.org/)
 
 API for bot's jokes: [icanhazdadjoke](https://icanhazdadjoke.com/api)
+
+[UptimeRobot](https://uptimerobot.com/) used to continuously ping this bot hosted in [the cloud](https://repl.it/)
